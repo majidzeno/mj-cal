@@ -50,6 +50,8 @@ const App = () => <mj-cal events={events} />;
 const App = () => <mj-cal  />;
 ```
 
+[Demo](https://majidzeno.github.io/mj-cal)
+
 ## License
 
 MIT © [majidzeno](https://github.com/majidzeno)
